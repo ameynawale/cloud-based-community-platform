@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script
+            src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <!--<style>
+        body {background-color: lightgrey}
+    </style>-->
+</head>
+<body>
+<div class="container-fluid background">
+    <div>
+        Communities
+    </div>
+    <div class="communities-table">
+        <div class="row">
+            <div>
+                <% for(var i in data)
+                {
+                %>
+                <p><%= data[i].community%></p>
+                <br>
+                <%
+                }
+                %>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

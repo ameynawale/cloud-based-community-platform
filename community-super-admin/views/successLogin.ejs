@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Successful Login</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>Your details are as follows:</h1>
+    <div>
+	       <% for(var i in data) 
+	            {                     
+            %>
+            		<p><strong>First Name	: </strong><%= data[i].firstName%></p>
+                	<p><strong>Last Name	: </strong><%= data[i].lastName%></p>
+                	<p><strong>Gender		: </strong><%= data[i].gender%></p>
+                	<p><strong>Date of Birth: </strong><%= data[i].DOB%></p>
+           		    <p><strong>EmailId		: </strong><%= data[i].username%></p>
+                	<p><strong>Password		: </strong><%= data[i].pass%></p>
+            		<br>       
+           <% 
+	            }  
+	       %>
+	</div>
+  </body>
+</html>
