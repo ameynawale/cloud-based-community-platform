@@ -183,7 +183,7 @@ function getCommunities(req,res)
 
 function activateCommunity(req,res)
 {
-    var getCommunityList="select community,purpose from communities where status=2";
+    var getCommunityList="select community,purpose,username from communities where status=2";
     console.log("Query is:"+getCommunityList);
 
     mysql.fetchData(function(err,results){
@@ -207,7 +207,7 @@ function activateCommunity(req,res)
             }
             else {
 
-                ejs.renderFile('./views/failLogin.ejs',function(err, result) {
+                ejs.renderFile('./views/ActivateCommunity.ejs',function(err, result) {
                     // render on success
                     if (!err) {
                         res.end(result);
@@ -261,7 +261,7 @@ function afterSignUp(req,res)
 function activatedSuccessfully(req,res)
 {
     // check user already exists
-    var postUser="update communities set status=1 where community='"+req.param("community")+"'";
+    var postUser="update communities set status=1,URL='"+req.param("url")+"' where community='"+req.param("community")+"'";
     console.log("Query is:"+postUser);
 
     mysql.fetchData(function(err,results){

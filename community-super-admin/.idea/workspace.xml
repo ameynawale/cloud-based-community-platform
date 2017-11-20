@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="185" column="50" lean-forward="false" selection-start-line="185" selection-start-column="50" selection-end-line="185" selection-end-column="50" />
+            <state relative-caret-position="150">
+              <caret line="185" column="59" lean-forward="false" selection-start-line="185" selection-start-column="59" selection-end-line="185" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -27,8 +27,8 @@
       <file leaf-file-name="CommunityActivated.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/CommunityActivated.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state relative-caret-position="-396">
+              <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="GAComActivated.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/GAComActivated.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+            <state relative-caret-position="379">
+              <caret line="75" column="17" lean-forward="false" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -47,18 +47,28 @@
       <file leaf-file-name="SAhomepage.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/SAhomepage.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="61" column="46" lean-forward="false" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+            <state relative-caret-position="79">
+              <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivateCommunity.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ActivateCommunity.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/ActivateCommunity.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="86" column="37" lean-forward="false" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+            <state relative-caret-position="479">
+              <caret line="104" column="76" lean-forward="true" selection-start-line="104" selection-start-column="76" selection-end-line="104" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/homepage.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -67,7 +77,7 @@
       <file leaf-file-name="signin.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/signin.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
+            <state relative-caret-position="600">
               <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
               <folding />
             </state>
@@ -77,18 +87,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="354">
               <caret line="33" column="54" lean-forward="false" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="newhomepage.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/newhomepage.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1896">
-              <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -97,8 +97,8 @@
       <file leaf-file-name="SignUp.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/SignUp.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1475">
-              <caret line="92" column="38" lean-forward="true" selection-start-line="87" selection-start-column="32" selection-end-line="92" selection-end-column="38" />
+            <state relative-caret-position="336">
+              <caret line="121" column="28" lean-forward="false" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -107,8 +107,8 @@
       <file leaf-file-name="FirstComReq.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/FirstComReq.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="42" column="39" lean-forward="false" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+            <state relative-caret-position="336">
+              <caret line="42" column="81" lean-forward="false" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -135,16 +135,16 @@
         <option value="$PROJECT_DIR$/views/GAhomepage.ejs" />
         <option value="$PROJECT_DIR$/views/signin1.ejs" />
         <option value="$PROJECT_DIR$/views/GAComReqSent.ejs" />
-        <option value="$PROJECT_DIR$/views/GAComActivated.ejs" />
         <option value="$PROJECT_DIR$/views/newhomepage.ejs" />
         <option value="$PROJECT_DIR$/views/CreateCommunity.ejs" />
         <option value="$PROJECT_DIR$/views/SignUp.ejs" />
-        <option value="$PROJECT_DIR$/views/FirstComReq.ejs" />
-        <option value="$PROJECT_DIR$/views/CommunityActivated.ejs" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/SAhomepage.ejs" />
-        <option value="$PROJECT_DIR$/routes/home.js" />
+        <option value="$PROJECT_DIR$/views/FirstComReq.ejs" />
+        <option value="$PROJECT_DIR$/views/CommunityActivated.ejs" />
+        <option value="$PROJECT_DIR$/views/GAComActivated.ejs" />
         <option value="$PROJECT_DIR$/views/ActivateCommunity.ejs" />
+        <option value="$PROJECT_DIR$/routes/home.js" />
       </list>
     </option>
   </component>
@@ -180,53 +180,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CommunitySuperAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommunitySuperAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="community-super-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="community-super-admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CommunitySuperAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommunitySuperAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CommunitySuperAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommunitySuperAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CommunitySuperAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommunitySuperAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CommunitySuperAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommunitySuperAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CommunitySuperAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommunitySuperAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="community-super-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="community-super-admin" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CommunitySuperAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommunitySuperAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="community-super-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="community-super-admin" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,11 +246,13 @@
       <workItem from="1510975812081" duration="5861000" />
       <workItem from="1510986050565" duration="14506000" />
       <workItem from="1511026930279" duration="18753000" />
+      <workItem from="1511132030310" duration="691000" />
+      <workItem from="1511198914409" duration="4529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42541000" />
+    <option name="totallyTimeSpent" value="47761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1054" extended-state="6" />
@@ -282,19 +260,19 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -309,6 +287,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/ActivateCommunity.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2150">
+          <caret line="86" column="37" lean-forward="false" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3375">
@@ -321,7 +307,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -337,7 +322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -353,7 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -361,7 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -377,7 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2000">
           <caret line="80" column="13" lean-forward="true" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -416,7 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -424,7 +404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="59" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -440,7 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -538,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="148" column="16" lean-forward="false" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10350">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,15 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/homepage.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="90" column="103" lean-forward="false" selection-start-line="90" selection-start-column="103" selection-end-line="90" selection-end-column="103" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="95" column="24" lean-forward="false" selection-start-line="81" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,53 +565,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/FirstComReq.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="42" column="39" lean-forward="false" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/SignUp.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1475">
-          <caret line="92" column="38" lean-forward="true" selection-start-line="87" selection-start-column="32" selection-end-line="92" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/newhomepage.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1896">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="1200">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/GAComActivated.ejs">
+    <entry file="file://$PROJECT_DIR$/views/signin.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        <state relative-caret-position="600">
+          <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/CommunityActivated.ejs">
+    <entry file="file://$PROJECT_DIR$/views/homepage.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        <state relative-caret-position="511">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
+        <state relative-caret-position="354">
           <caret line="33" column="54" lean-forward="false" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
           <folding />
         </state>
@@ -655,32 +602,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/SAhomepage.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="61" column="46" lean-forward="false" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+        <state relative-caret-position="79">
+          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/home.js">
+    <entry file="file://$PROJECT_DIR$/views/FirstComReq.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="185" column="50" lean-forward="false" selection-start-line="185" selection-start-column="50" selection-end-line="185" selection-end-column="50" />
+        <state relative-caret-position="336">
+          <caret line="42" column="81" lean-forward="false" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/signin.ejs">
+    <entry file="file://$PROJECT_DIR$/views/SignUp.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+        <state relative-caret-position="336">
+          <caret line="121" column="28" lean-forward="false" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/CommunityActivated.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/GAComActivated.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="75" column="17" lean-forward="false" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/ActivateCommunity.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="86" column="37" lean-forward="false" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+        <state relative-caret-position="479">
+          <caret line="104" column="76" lean-forward="true" selection-start-line="104" selection-start-column="76" selection-end-line="104" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="185" column="59" lean-forward="false" selection-start-line="185" selection-start-column="59" selection-end-line="185" selection-end-column="59" />
           <folding />
         </state>
       </provider>
