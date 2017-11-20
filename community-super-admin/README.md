@@ -1,20 +1,13 @@
 
 
-# NodeExpress
+## Community Admin Portal
 
+This portal provides a platform to the super admin and individual community admins to create and manage the communities.
 
+### Installing:
 
-## Usage
-
-
-
-## Developing
-
-
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
+Navigate to the project folder in CLI and execute the following commands:
+'''
+npm install
+npm start
+'''
